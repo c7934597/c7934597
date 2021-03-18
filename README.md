@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c7934597&show_icons=true&theme=radical)](https://github.com/c7934597/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c7934597&show_icons=true&theme=tokyonight)](https://github.com/c7934597/github-readme-stats)
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c7934597&layout=compact&show_icons=true&theme=radical)](https://github.com/c7934597/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c7934597&layout=compact&theme=tokyonight)](https://github.com/c7934597/github-readme-stats)
